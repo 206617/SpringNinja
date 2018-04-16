@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "SpringNinjaBuild.data.unityweb",
+"asmCodeUrl": "SpringNinjaBuild.asm.code.unityweb",
+"asmMemoryUrl": "SpringNinjaBuild.asm.memory.unityweb",
+"asmFrameworkUrl": "SpringNinjaBuild.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
